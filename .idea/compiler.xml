@@ -11,6 +11,7 @@
         <module name="springcloud-consumer-dept-80" />
         <module name="springcloud-consumer-dept-feign" />
         <module name="springcloud-zuul" />
+        <module name="springcloud-config-server-3344" />
         <module name="springcloud-api" />
         <module name="springcloud-eureka-7001" />
         <module name="springcloud-provider-dept-8001" />
